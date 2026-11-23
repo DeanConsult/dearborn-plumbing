@@ -4,4 +4,4 @@ Disallow: /resources/
 Disallow: /privacy-policy/
 Disallow: /thank-you/
 
-Sitemap: https://www.fiveguysplumbingdearborn.com/sitemap.xml
+Sitemap: https://fiveguysplumbingdearborn.com/sitemap.xml
